@@ -325,11 +325,11 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## 📊 Statistics
 
-> Last updated: 2026-03-15
+> Last updated: 2026-03-23
 
 ### Overview
-- Total Breweries: 9,251
-- Data Completeness: 79.0%
+- Total Breweries: 9,383
+- Data Completeness: 78.0%
 
 ### 🏛 Top 10 States by Brewery Count
 | State | Count |
@@ -348,10 +348,10 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### 🍺 Brewery Types Distribution
 | Type | Count | Percentage |
 |------|--------|------------|
-| micro | 4,911 | 53.1% |
-| brewpub | 2,620 | 28.3% |
-| planning | 649 | 7.0% |
-| closed | 361 | 3.9% |
+| micro | 5,019 | 53.5% |
+| brewpub | 2,644 | 28.2% |
+| planning | 649 | 6.9% |
+| closed | 361 | 3.8% |
 | regional | 230 | 2.5% |
 | contract | 184 | 2.0% |
 | large | 113 | 1.2% |
@@ -380,17 +380,17 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### 🌍 By Country
 | Country | Count | Percentage |
 |---------|------------|------------|
-| United States | 8,175 | 88.4% |
-| Australia | 514 | 5.6% |
-| Canada | 119 | 1.3% |
+| United States | 8,175 | 87.1% |
+| Australia | 514 | 5.5% |
+| Canada | 251 | 2.7% |
 | South Africa | 104 | 1.1% |
-| Ireland | 70 | 0.8% |
+| Ireland | 70 | 0.7% |
 | England | 62 | 0.7% |
 | South Korea | 61 | 0.7% |
 | Poland | 34 | 0.4% |
 | Singapore | 33 | 0.4% |
 | Austria | 15 | 0.2% |
-| Portugal | 14 | 0.2% |
+| Portugal | 14 | 0.1% |
 | Japan | 10 | 0.1% |
 | Germany | 10 | 0.1% |
 | Sweden | 10 | 0.1% |
@@ -410,9 +410,9 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | postal_code | 100.0% |
 | country | 100.0% |
 | address_1 | 92.0% |
-| phone | 90.0% |
+| phone | 89.0% |
 | website_url | 87.0% |
-| longitude | 75.0% |
-| latitude | 75.0% |
+| longitude | 74.0% |
+| latitude | 74.0% |
 | address_2 | 3.0% |
 | address_3 | 0.0% |
