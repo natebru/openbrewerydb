@@ -1,0 +1,21 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+75cf7eb3-3c01-4977-9764-8d873bfadf3a,Bavaria Brouwerij,large,Heuvel 5,,,Lieshout,Noord-Brabant,5737 BX,Netherlands,+31 0499 425 585,http://www.bavariabrouwerijcafe.nl/,5.5957611,51.5178125
+f033ae1e-6e3c-4e37-8b29-4943cfbe4b21,Bierbrouwerij De Koningshoeven,micro,Eindhovenseweg 3,,,Berkel-Enschot,Noord-Brabant,5056 RP,Netherlands,+31 013 535 8147,https://nl.latrappetrappist.com/nl/nl.html,5.1294129,51.5425075
+ca9de819-109c-462d-b1bd-214339f4325c,Bierbrouwerij Oijen,brewpub,Oijense Bovendijk 61,,,Oijen,Noord-Brabant,5394 LA,Netherlands,+31 0412 492 217,https://bierbrouwerij-oijen.nl/,5.5310204,51.8104867
+596476a5-719c-4e18-9252-8e1277fe78ab,Brouwerij De Vandeoirsprong,micro,Koestraat 20,,,Oirschot,Noord-Brabant,5688 AH,Netherlands,+31 0499 572 002,http://www.vandeoirsprong.nl/,5.305426600000001,51.5014878
+23e6b80a-e88b-4fad-8db4-af400f5ed8b5,Brouwerij Frontaal,micro,"Liniestraat, De Faam 31",,,Breda,Noord-Brabant,4816 BG,Netherlands,+31 076 785 4329,https://frontaalbrewingcompany.com/brouwcafe,4.783386699999999,51.5976715
+4d3fcfcc-e925-462c-a20f-9f4e5896ec19,Budelse Brouwerij,micro,Nieuwstraat 9,,,Budel,Noord-Brabant,6021 HP,Netherlands,+31 0495 491 369,http://www.budels.nl/,5.5738978,51.2732255
+e8a8113c-849b-44d9-b710-8f76a163f59b,Dommelsche Bierbrouwerij,regional,5551 AE Valkenswaard,,,Valkenswaard,Noord-Brabant,5551 AE,Netherlands,+31 016 27 61 11,https://dommelsch.nl/,5.4279544,51.3482553
+88a0591f-ffc7-439f-bdfd-820e0b86de2d,Dorpsbrouwerij de Pimpelmeesch,micro,Elsakkerpad 11 - (kantooradres,,,Chaam,Noord-Brabant,4861 TA,Netherlands,+31 0161 491 615,https://pimpelmeesch.nl/,4.8548898,51.5095974
+8c409cbe-36e2-46f3-9ca7-76f0e6806cb4,Hilldevils Brewery,micro,Plantagebaan 99A,,,Wouwse Plantage,Noord-Brabant,4725 RB,Netherlands,+31 06 22197086,http://www.hilldevils.nl/,4.3996164,51.4992773
+2cf60801-e6ed-4a95-a713-de65d2019d2c,Hoöten Brewing,micro,De Stater 5,,,Lieshout,Noord-Brabant,5737 RV,Netherlands,+31 0499 428 111,https://nl.bavaria.com/,5.613055,51.518775
+5b08f5ad-28b7-4bde-ae2e-62c92b0c37ed,Iki Beer,micro,Rietveldenweg 25,,,'s-Hertogenbosch,Noord-Brabant,5222 AP,Netherlands,+31 073 620 9911,http://www.heineken.nl/,5.2802583,51.6992048
+a2572c75-6690-42f3-b3cb-27e35e1fd1dd,Muifelbrouwerij,micro,Vikingenweg 5,,,Oss,Noord-Brabant,5349 BT,Netherlands,+31 06 40560581,http://www.muifelbrouwerij.nl/,5.5577691,51.7597627
+6cbb6ff9-8ed4-4ddc-bbe9-76e102df3fd6,Museumbrouwerij de Roos,micro,Sint Sebastiaanstraat 4,,,Hilvarenbeek,Noord-Brabant,5081 ZG,Netherlands,+31 013 505 5045,https://www.bierbrouwerijderoos.nl/,5.13486,51.4860513
+4ff7a8d8-ca42-48d9-9158-f23f3bc8d768,Oranjeboom Brewery,regional,Druivenstraat 21,,,Breda,Noord-Brabant,4816 KB,Netherlands,+31 076 578 1000,http://www.uniteddutchbreweries.com/,4.8081501,51.5999409
+0ce224fd-2e79-4755-98f8-8c415fdcf9a7,Stadsbrouwerij Eindhoven,micro,Bleekweg 1,,,Eindhoven,Noord-Brabant,5611 CZ,Netherlands,+31 040 842 8000,https://100watt.nl/?utm_source=google&utm_medium=organic&utm_campaign=gmb,5.4847971,51.435935
+3aff0dab-35e0-4d09-ada5-afce6e8cb6d5,Thissen's Brouwerij,micro,Brouwerspad 26a,,,Lith,Noord-Brabant,5397 GG,Netherlands,+31 06 53228614,http://www.thissensbrouwerij.nl/contact/,5.4284446,51.8090178
+fe90a347-57ee-4c1f-a219-c802eed41265,Trappistenbrouwerij De Kievit,micro,Rucphenseweg 38,,,Zundert,Noord-Brabant,4882 KC,Netherlands,+31 076 597 4251,http://www.zunderttrappist.nl/,4.6079355,51.4954005
+8c0a686a-a58f-4799-817f-de68c4305e9d,Uthoka Sommelier & Brouwerij,micro,Nieuwstraat 34,,,Vught,Noord-Brabant,5261 VH,Netherlands,,http://www.bierstudio.eu/,5.2933355,51.6555354
+e0f4cfb4-eb19-48b2-b59f-37e76088c2e1,Van Moll BrewPub,brewpub,Keizersgracht 16A,,,Eindhoven,Noord-Brabant,5611 GD,Netherlands,+31 040 848 7255,https://vanmollcraftbeer.com/bar/,5.4772446,51.4368773
+d125f9bc-8912-4d49-af6c-4bfaf0592e68,Weidmann Bier,micro,Druivenstraat 21,,,Breda,Noord-Brabant,4816 KB,Netherlands,+31 076 578 1000,http://www.uniteddutchbreweries.com/,4.8081501,51.5999409

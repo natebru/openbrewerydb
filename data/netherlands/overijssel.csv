@@ -1,0 +1,5 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+c33a8963-8d53-45be-ade3-5f8cbf08d3e7,Ambachtelijke Vechtdal Brouwerij,micro,Molendijk 11,,,Dalfsen,Overijssel,7721 AB,Netherlands,+31 06 30781380,http://vechtdalbrouwerij.nl/,6.2628498,52.5061472
+8513673c-4927-4510-a8b3-60485a03d77a,Axes Castellum Kloosterbier,micro,Grote Voort 10,,,Zwolle,Overijssel,8041 AM,Netherlands,+31 06 29990260,http://www.axes-castellum.nl/,6.0716513,52.5125093
+c6f7015d-cd17-435f-bd87-c9b487843a52,Berghoeve Brouwerij,micro,Achteres 15,,,Den Ham,Overijssel,7683 SX,Netherlands,+31 06 18278345,http://www.berghoevebrouwerij.nl/,6.5180278,52.4661069
+a4e6108a-f682-4632-9ba3-eebe121bea7c,Koninklijke Grolsch,large,"De Groote Plooij, Brouwerslaan 1",,,Enschede,Overijssel,7548 XA,Netherlands,+31 053 483 3333,http://www.grolsch.nl/,6.8160167,52.20594759999999

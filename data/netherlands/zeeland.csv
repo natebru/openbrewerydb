@@ -1,0 +1,3 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+ff791d08-24c2-4f31-b9e5-4ceca362773d,Bierbrouwerij Emelisse,micro,Nieuweweg 7,,,Kamperland,Zeeland,4493 PA,Netherlands,+31 0113 370 262,http://www.restaurantdebrouwerij.nl/,3.708862,51.57543
+00b18321-6e85-4ac5-a812-e27fadca20fc,Brouwerij Kees,micro,Voltaweg 16,,,Middelburg,Zeeland,4338 PS,Netherlands,+31 06 25172472,https://www.brouwerijkees.nl/,3.6442091,51.4918096

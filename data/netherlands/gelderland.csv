@@ -1,0 +1,7 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+1cc8ff81-b319-428d-b888-d476fc53b322,Brouwtoren,micro,Waldeck Pyrmontsingel 12,,,Nijmegen,Gelderland,6521 BC,Netherlands,+31 06 25106052,https://www.brouwtoren.nl/,5.8696424,51.8415276
+7dc27421-8e1e-4f46-9597-a9d2fa5047ee,De Heidebrouwerij,micro,Venturistraat 12 A,,,Ede,Gelderland,6718 XW,Netherlands,+31 0318 785 428,http://www.deheidebrouwerij.nl/,5.6031654,52.0328156
+a34c3028-a5dd-4ecc-8185-b437ed135794,Oersoep,micro,Waalplein 7,,,Nijmegen,Gelderland,6541 AX,Netherlands,+31 06 16059557,https://www.oersoepbrouwerij.nl/brouwlab,5.8389696,51.857236
+d902ee67-8102-449d-85c3-da748144515f,Stadsbrouwerij De Hemel,brewpub,Franseplaats 1,,,Nijmegen,Gelderland,6511 VS,Netherlands,+31 024 360 6167,http://www.brouwerijdehemel.nl/,5.864321299999999,51.848794
+02ab80ff-5016-4c70-b9d9-8d70cee65894,Voortsche Bieren,micro,Harremaatweg 34,,,Voorthuizen,Gelderland,3781 NJ,Netherlands,,http://www.voortschebieren.nl/,5.630355,52.1872848
+57be0153-df0c-4e2b-85f5-7e3ae6287f44,Wentersch Brewery,micro,Groenloseweg 75,,,Winterswijk,Gelderland,7101 AD,Netherlands,+31 0543 769 080,http://www.wentersch.nl/,6.7097576,51.9782749

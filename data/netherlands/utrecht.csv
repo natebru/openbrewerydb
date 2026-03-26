@@ -1,0 +1,6 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+640fd21c-db18-4beb-9ee3-76d408c7b9c6,Maximus Brouwerij,micro,Pratumplaats 2A,,,Utrecht,Utrecht,3454 NA,Netherlands,+31 030 737 0077,http://www.maximusbrouwerij.nl/,5.0458145,52.0884895
+17e345c5-0a15-4553-bb0c-49efa5bbc1da,Rock City Beers,micro,Mijnbouwweg 15,,,Amersfoort,Utrecht,3812 RT,Netherlands,+31 033 202 2230,https://rockcitybrewing.nl/,5.367071399999999,52.1664465
+0c68728b-7772-425c-a7b9-d2f866f6b706,Rooie Dop,micro,Jagerskade 13,,,Utrecht,Utrecht,3552 TL,Netherlands,+31 030 721 0004,https://rooienel.nl/,5.107283300000001,52.10700749999999
+0bbd6a9f-5427-4459-bb98-64ff780b807d,Speciaalbierbrouwerij Duits & Lauret,micro,Noodweg 2,,,Everdingen,Utrecht,4121 KK,Netherlands,+31 0347 769 005,http://www.duitslauret.com/,5.174904199999999,51.96174999999999
+92cdc232-7a90-4dfb-be89-4aad392acb83,vandeStreek bier,micro,Ontariodreef 43,,,Utrecht,Utrecht,3565 BC,Netherlands,+31 030 737 1255,http://www.vandestreekbier.nl/,5.086886799999999,52.1275108

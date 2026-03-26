@@ -1,0 +1,19 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+1bfbea82-92f0-4a1e-84a4-22ac478419ec,Amstel Brewery,large,Funenkade 7,,,Amsterdam,Noord-Holland,1018 AL,Netherlands,+31 020 261 9801,https://www.brouwerijhetij.nl/proeflokalen/proeflokaal-de-molen,4.9264253,52.36669080000001
+2e8fe7d6-9f40-4ad8-aa13-bb4fd069af4d,Bird Brewery,micro,Diemerbospad 1a,,,Diemen,Noord-Holland,1111 PZ,Netherlands,+31 020 214 6555,http://birdbrewery.com/,4.990673,52.3325138
+bb8680ef-fa79-4409-ab82-5d6a8f5e3e99,Breugem Brewery,micro,Lagedijk 69,,,Zaandijk,Noord-Holland,1544 BC,Netherlands,+31 075 204 7000,http://www.brouwerijhoop.nl/,4.8111073,52.4761056
+84824834-3233-4947-ad20-579b7141fc24,Brouwerij 't IJ,regional,Funenkade 7,,,Amsterdam,Noord-Holland,1018 AL,Netherlands,+31 020 261 9801,https://www.brouwerijhetij.nl/proeflokalen/proeflokaal-de-molen,4.9264253,52.36669080000001
+a9d218c4-b493-423b-939b-06882dc799e9,Brouwerij de Eeuwige Jeugd,micro,H.J.E. Wenckebachweg 48,,,Amsterdam,Noord-Holland,1096 AH,Netherlands,,http://www.deeeuwigejeugd.nl/,4.924842,52.337032
+bd5a394e-fc8f-4e09-bfe8-1579b695fd99,Brouwerij De Prael,micro,Oudezijds Armsteeg 26,,,Amsterdam,Noord-Holland,1012 GP,Netherlands,+31 020 408 4469,http://www.depraelamsterdam.nl/,4.899391,52.3756081
+790a3147-e4b0-416f-a882-99223da6092a,Brouwerij Hoop,micro,Lagedijk 69,,,Zaandijk,Noord-Holland,1544 BC,Netherlands,+31 075 204 7000,http://www.brouwerijhoop.nl/,4.8111073,52.4761056
+cb86e414-8de8-4535-a88e-6e3ebe660f06,Bruut Bier,micro,Spaklerweg 1F,,,Amsterdam,Noord-Holland,1096 BA,Netherlands,+31 06 34239354,https://bruutbier.nl/,4.91919,52.3431793
+aa465ae0-9a9f-4207-b805-5ceb9487bb7c,Butcher's Tears,micro,Karperweg 45,,,Amsterdam,Noord-Holland,1075 LB,Netherlands,,http://butchers-tears.com/,4.8535124,52.3472257
+13eef395-8779-4484-a700-a998455ab9e2,De Bierderie,closed,"Witte Vlinderweg 72, A15",,,Wormerveer,Noord-Holland,1521 PS,Netherlands,,,4.7877418,52.50441860000001
+40818410-f956-4e68-81c7-bb802220378c,Gebrouwen Door Vrouwen,micro,Jan Pieter Heijestraat 119D,,,Amsterdam,Noord-Holland,1054 MD,Netherlands,+31 020 854 5277,https://www.gebrouwendoorvrouwen.nl/de-bar,4.864332999999999,52.362525
+c4b543bd-313d-4cf7-b9c6-b8f58e326d58,Heineken,large,Stadhouderskade 78,,,Amsterdam,Noord-Holland,1072 AE,Netherlands,+31 020 205 0593,https://www.heinekenexperience.com/,4.8918249,52.35783130000001
+b65d7479-66c5-4294-8d73-930fb912acbe,Het Uiltje,micro,Zijlstraat 18,,,Haarlem,Noord-Holland,2011 TN,Netherlands,+31 023 844 6227,https://www.uiltjebrewing.com/venue/uiltje-bar/,4.6306578,52.3828983
+600934dc-8889-48da-af7d-31d3b85d1a32,Jopen,micro,Gedempte Voldersgracht 2,,,Haarlem,Noord-Holland,2011 WD,Netherlands,+31 023 533 4114,https://www.jopenkerk.nl/haarlem/,4.6297315,52.3812145
+b61e8713-1671-42ce-88c9-44e46fd4f50e,Oedipus Brewing,micro,Schaafstraat 21,,,Amsterdam,Noord-Holland,1021 KD,Netherlands,,http://oedipus.com/,4.9241202,52.385357
+d837a451-1594-4656-97b0-abdc73074ccb,Pontus Brewing,micro,Johan Huizingalaan 262,,,Amsterdam,Noord-Holland,1065 JM,Netherlands,,,4.8270084,52.3543823
+ffea4512-ccce-467c-8342-5b1e43d5ed7b,Texels Bierbrouwerij,micro,Schilderweg 214b,,,Oudeschild,Noord-Holland,1792 CK,Netherlands,+31 0222 320 325,http://www.texels.nl/,4.8278991,53.04486619999999
+9b327a2b-3a7c-4c73-bea5-8a5962bc5fd4,Two Chefs Brewing,micro,Moezelhavenweg 6,,,Amsterdam,Noord-Holland,1043 AM,Netherlands,+31 020 894 8944,http://twochefsbrewing.com/,4.8201689,52.3926576

@@ -1,0 +1,3 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+b1b4c4b2-771a-472a-ae1b-faadb8cac5ef,Bax Bier,micro,"Friesestraatweg 201, 2a",,,Groningen,Groningen,9743 AC,Netherlands,+31 050 211 2040,http://baxbier.com/,6.5351487,53.2266548
+e3d9c33a-077b-426c-98ed-50e3e240135b,Folkingebrew,micro,Boterdiep 75,,,Groningen,Groningen,9712 LL,Netherlands,+31 06 28801883,https://www.folkingebrew.nl/the-pub/,6.5636606,53.2249652
