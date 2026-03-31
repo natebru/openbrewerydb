@@ -512,6 +512,13 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/155565721?v=4",
       "profile": "https://github.com/mathewhaug",
       "contributions": ["data"]
+    },
+    {
+      "login": "kpomer",
+      "name": "Kevin Pomer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25374403?v=4",
+      "profile": "https://github.com/kpomer",
+      "contributions": ["data"]
     }
   ],
   "contributorsPerLine": 7
